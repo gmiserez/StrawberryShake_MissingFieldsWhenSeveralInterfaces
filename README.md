@@ -50,3 +50,9 @@ query getVehicles {
   }
 }
 ```
+
+# Results
+
+![Missing Interface](https://raw.githubusercontent.com/gmiserez/StrawberryShake_MissingFieldsWhenSeveralInterfaces/master/images/InterfaceICarMissing.jpg)
+
+![Missing Interface](https://raw.githubusercontent.com/gmiserez/StrawberryShake_MissingFieldsWhenSeveralInterfaces/master/images/MissingField.jpg)
