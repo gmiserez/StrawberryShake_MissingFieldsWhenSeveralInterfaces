@@ -1,0 +1,11 @@
+{
+  "Schemas": [
+    {
+      "Name": "ServiceClient",
+      "Type": "http",
+      "File": "ServiceClient.graphql",
+      "Url": "https://google.com"
+    }
+  ],
+  "ClientName": "ServiceClient"
+}

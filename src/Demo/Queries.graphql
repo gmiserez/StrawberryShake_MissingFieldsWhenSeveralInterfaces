@@ -1,0 +1,8 @@
+
+query getVehicles {
+  vehicles{
+    ... on Car {
+      nbSeats
+    }
+  }
+}
